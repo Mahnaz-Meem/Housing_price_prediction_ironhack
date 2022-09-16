@@ -1,4 +1,4 @@
-# Housing Price Analysis
+# Housing Price Analysis and Prediction
 - 📊 Final Bootcamp Project: Ironhack
 - 🗓 Date: 16 September 2022
 - 👩🏽‍💻 Created by: Mahnaz Sarker Meem 👋🏼
