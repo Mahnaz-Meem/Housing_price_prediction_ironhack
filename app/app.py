@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import StandardScaler
 import pickle
-
+from PIL import Image
 #--------------------------------------------------------#
 
 # Page layout
@@ -106,4 +106,6 @@ if button:
 	predicted_price = best_model.predict(df_scaled_df)
 
 	st.success("The estimated price is ${:.2f}".format(np.exp(predicted_price[0])))
+	image = Image.open('../visualization/wow.png')
+	st.image(image, caption='Surprised?')
 
