@@ -18,8 +18,8 @@
 
 ## About
 Whether to buy a house or sell, one should know the estimated price, to optimize the purchase or to calculate the profit margin. This is a big market with lots of possibilities. Therefore, this data is suitable for following two scenarios:
-- 1. A real estate company wants to build a machine learning model to predict the selling prices of houses based on different features.
-- 2. An individual person wants to buy his/her dream-house within a price range.
+1. A real estate company wants to build a machine learning model to predict the selling prices of houses based on different features.
+2. An individual person wants to buy his/her dream-house within a price range.
 
 To predict the house prices I first cleaned the data. Preprocess the data for model building. Used logarithmic scale to normalize the skewed price data to have better prediction. Based on different features the house prices have been explored and estimated.
 
