@@ -6,7 +6,6 @@
 - [Trello Board](https://trello.com/b/mDTcWUAC/finalbootcampproject)
 - [Slides](https://www.canva.com/design/DAFMXT0kHwk/mfXGaWmET_Xh9dGtud9LdA/view?utm_content=DAFMXT0kHwk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-<img src="visualization/seattle_price.jpeg" width="900" height="350">
 
 ## Table of Contents
 - [About](#about)
